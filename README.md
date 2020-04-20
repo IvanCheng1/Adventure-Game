@@ -6,6 +6,8 @@ A simple version of an old-fashioned text-based adventure game, in Python. Part 
 
 Change the directory to the Game folder, and run.
 
+For example:
+
 ```
 cd /Documents/Adventure-Game
 
